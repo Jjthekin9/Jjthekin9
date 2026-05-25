@@ -22,7 +22,7 @@ Ingeniero en formación enfocado en el desarrollo de software, automatización c
 ---
 
 ### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Jjthekin9&show_icons=true&theme=dark)
+https://github-readme-stats.vercel.app/api?username=Jjthekin9&show_icons=true&theme=dark
 
 ---
 
