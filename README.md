@@ -6,7 +6,7 @@ Ingeniero en formación enfocado en el desarrollo de software, automatización c
 
 ---
 
-### 🛠️ Tecnologías
+### Tecnologías
 *   **Lenguajes:** C#, Java, JavaScript, SQL.
 *   **IoT & Hardware:** Arduino (Sensores y automatización).
 *   **Mobile & Web:** React Native, HTML/CSS.
@@ -14,14 +14,14 @@ Ingeniero en formación enfocado en el desarrollo de software, automatización c
 
 ---
 
-### 🚀 Proyectos Principales
+### Proyectos Principales
 *   **EcoSort App:** App móvil para gestión de residuos (React Native).
 *   **Clasificador Automático:** Sistema de separación de materiales con Arduino.
 *   **Network Security:** Gestión de redes y firewalls en entornos virtuales.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jjthekin9&show_icons=true&theme=dark)
 
 ---
