@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola, soy Jafet! 👋
 
-<!--
-**Jjthekin9/Jjthekin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería en Sistemas Computacionales | ITSVA
 
-Here are some ideas to get you started:
+Ingeniero en formación enfocado en el desarrollo de software, automatización con hardware y soluciones digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías
+*   **Lenguajes:** C#, Java, JavaScript, SQL.
+*   **IoT & Hardware:** Arduino (Sensores y automatización).
+*   **Mobile & Web:** React Native, HTML/CSS.
+*   **Herramientas:** Git, GitHub, Unity, Linux.
+
+---
+
+### 🚀 Proyectos Principales
+*   **EcoSort App:** App móvil para gestión de residuos (React Native).
+*   **Clasificador Automático:** Sistema de separación de materiales con Arduino.
+*   **Network Security:** Gestión de redes y firewalls en entornos virtuales.
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Jjthekin9&show_icons=true&theme=dark)
+
+---
+
+### 📫 Contacto
+*   📍 Valladolid, Yucatán, México.
+*   💻 [GitHub](https://github.com/Jjthekin9)
